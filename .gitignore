@@ -1,0 +1,4 @@
+*.log
+*.pyc
+auth_token.json
+AI-Text-Detector-python/
